@@ -1,0 +1,12 @@
+
+
+.container > ul{
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+.container > ul > li > a {
+  margin: 20px;
+     text-decoration: none;
+}
